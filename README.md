@@ -1,2 +1,5 @@
 # Machine-Learning-Emlyon
-Personal machine learning project at emlyon business school
+> Machine learning in business case project at emlyon business school in 2020
+
+This project aims to select 100 customers to be targeted for marketing campaign, based on historical data.
+
